@@ -19,22 +19,19 @@ Abaixo estão os links para os materiais e projetos desenvolvidos em cada unidad
 
 🎨
  Design Front End para Web
-[Acessar Conteúdo](./Repositórios_1Semestre/Desenvolvimento-Front-End_Para_Web
-)
+[Acessar Conteúdo](Repositorios_1Semestre/Desevolvimento-Front-End_Para_Web)
 
 🗄️
  Modelagem de Banco de Dados
-[Acessar Conteúdo](./Repositórios_1Semestre/Modelagem_de_Banco_de_Dados
-)
+[Acessar Conteúdo](Repositorios_1Semestre/Modelagem_de_Banco_de_Dados)
 
 🚀
  Design Profissional
-[Acessar Conteúdo](./Repositórios_1Semestre/Design_Profissional
-)
+[Acessar Conteúdo](Repositorios_1Semestre/Design_Profissional)
 
 💻
  Algoritmos e Programação
-[Acessar Conteúdo](./Repositórios_1Semestre/Algoritmos_e_Pensamento_Computacionals)
+[Acessar Conteúdo](Repositorios_1Semestre/Algoritmos_e_Pensamento_Computacional)
 
 🗂 Estrutura de Arquivos
 
