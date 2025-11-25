@@ -14,6 +14,27 @@ Este repositório foi criado como parte da Avaliação A1 da disciplina de Desig
 Abaixo estão listados os itens solicitados no checklist da avaliação, organizados conforme as diretrizes da disciplina.
 
 ---
+📚 Repositórios das Disciplinas do 1º Semestre
+Abaixo estão os links para os materiais e projetos desenvolvidos em cada unidade curricular:
+
+🎨
+ Design Front End para Web
+[Acessar Conteúdo](./Repositórios_1Semestre/Desenvolvimento-Front-End_Para_Web
+)
+
+🗄️
+ Modelagem de Banco de Dados
+[Acessar Conteúdo](./Repositórios_1Semestre/Modelagem_de_Banco_de_Dados
+)
+
+🚀
+ Design Profissional
+[Acessar Conteúdo](./Repositórios_1Semestre/Design_Profissional
+)
+
+💻
+ Algoritmos e Programação
+[Acessar Conteúdo](./Repositórios_1Semestre/Algoritmos_e_Pensamento_Computacionals)
 
 🗂 Estrutura de Arquivos
 
