@@ -1,41 +1,60 @@
-Algoritmos e Pensamento Computacional 🧮
+# Algoritmos e Pensamento Computacional 🧠
 
-Semestre: 1º  
-Status: Concluído
+**Semestre:** 1º  
+**Status:** Concluído
 
 ---
 
-📝 Descrição
-Este repositório contém as atividades práticas, listas de exercícios e algoritmos desenvolvidos durante a disciplina de Algoritmos e Pensamento Computacional.
+## 📝 Descrição
+Este repositório documenta a jornada de aprendizado na disciplina de **Algoritmos e Pensamento Computacional**.
 
-O foco principal dos materiais aqui presentes é o desenvolvimento da lógica de programação, a capacidade de abstração para resolução de problemas e a introdução à sintaxe de código.
+Aqui estão reunidos exercícios de lógica de programação, fluxogramas e códigos iniciais. O foco principal é desenvolver a capacidade de resolver problemas complexos através da quebra em etapas menores (Pensamento Computacional) e traduzi-las para uma linguagem de computador.
 
-🎯 Objetivos
-- Desenvolver o raciocínio lógico estruturado.
-- Compreender os pilares do Pensamento Computacional: Decomposição, Reconhecimento de Padrões, Abstração e Algoritmos.
-- Aplicar estruturas de controle (condicionais e laços de repetição).
-- Manipular estruturas de dados básicas (vetores/arrays e matrizes).
+## 🎯 Objetivos
+- **Pensamento Computacional:** Aplicar os 4 pilares (Decomposição, Reconhecimento de Padrões, Abstração e Algoritmos).
+- **Lógica de Programação:** Estruturar soluções sequenciais lógicas.
+- **Estruturas de Controle:** Utilizar condicionais (`if/else`) e estruturas de decisão.
+- **Estruturas de Repetição:** Implementar laços (`for`, `while`) para automação de tarefas.
+- **Estruturas de Dados:** Manipular vetores (arrays) e matrizes.
 
-🛠 Tecnologias e Ferramentas Utilizadas
-- Linguagem de Programação:** [Preencha aqui: Ex: Python / C / Java]
-- Lógica/Pseudocódigo:** [Preencha aqui se usou: Ex: VisualG / Portugol Studio / Flowgorithm]
-- IDE / Editor de Código:** [Preencha aqui: Ex: VS Code / PyCharm / DevC++]
+## 🛠 Tecnologias e Ferramentas Utilizadas
+*   **Linguagem Principal:** [Preencha: Python / C / Java / C#]
+*   **Lógica/Pseudocódigo:** [Preencha: Portugol Studio / VisualG / Flowgorithm]
+*   **IDE / Editor:** [Preencha: VS Code / PyCharm / DevC++]
 
-📂 Estrutura dos Arquivos
+## 📂 Organização dos Estudos
 
-A organização das atividades segue a progressão dos tópicos abordados em aula:
+Os exercícios estão divididos por tópicos, refletindo a evolução do aprendizado:
 
-| Pasta / Tópico | Descrição do Conteúdo |
+| Pasta | Conteúdo |
 | :--- | :--- |
-| 01_Introducao | Exercícios básicos de entrada, processamento e saída de dados. |
-| 02_Estruturas_Condicionais | Algoritmos utilizando `if`, `else`, `elif` (ou `switch/case`). |
-| 03_Estruturas_Repeticao | Exercícios de laços de repetição (`for`, `while`, `do-while`). |
-| 04_Vetores_Matrizes | Manipulação de arrays, listas e estruturas multidimensionais. |
-| 05_Funcoes_Procedimentos | Modularização de código e escopo de variáveis. |
+| **01_Logica_e_Fluxogramas** | Exercícios de lógica pura e desenhos de fluxos de processos. |
+| **02_Conceitos_Basicos** | Variáveis, tipos de dados, entrada e saída. |
+| **03_Estruturas_Condicionais** | Algoritmos de decisão (ex: cálculo de médias, verificação de idade). |
+| **04_Lacos_de_Repeticao** | Algoritmos iterativos (ex: tabuadas, contadores, somatórios). |
+| **05_Vetores_e_Matrizes** | Armazenamento e manipulação de coleções de dados. |
 
-🚀 Como Executar
-1. Certifique-se de ter o [Nome da Linguagem, ex: Python] instalado em sua máquina.
-2. Clone este repositório ou baixe os arquivos.
-3. Abra o terminal na pasta do exercício desejado.
-4. Execute o comando:
-   ```bash
+## 🚀 Como Executar os Códigos
+
+1.  Certifique-se de ter o compilador ou interpretador da linguagem instalado (ex: Python ou GCC).
+2.  Navegue até a pasta do exercício pelo terminal:
+    ```bash
+    cd 03_Estruturas_Condicionais
+    ```
+3.  Execute o arquivo:
+    ```bash
+    # Exemplo para Python:
+    python nome_do_exercicio.py
+    
+    # Exemplo para C (após compilar):
+    ./nome_do_exercicio
+    ```
+
+---
+### 🧩 Exemplo de Lógica
+
+*(Se você tiver algum print de um código rodando ou um fluxograma legal, coloque aqui. Caso contrário, pode apagar esta seção)*
+
+> "Programar é a arte de dizer a outro ser humano o que se quer que o computador faça." — Donald Knuth
+
+---
