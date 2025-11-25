@@ -30,7 +30,7 @@ Abaixo estão os links para os materiais e projetos desenvolvidos em cada unidad
 [Acessar Conteúdo](Repositorios_1Semestre/Design_Profissional)
 
 💻
- Algoritmos e Programação
+ Algoritmos e Pensamento Computacional
 [Acessar Conteúdo](Repositorios_1Semestre/Algoritmos_e_Pensamento_Computacional)
 
 🗂 Estrutura de Arquivos
